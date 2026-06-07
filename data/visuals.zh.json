@@ -1,0 +1,756 @@
+{
+  "name": "AI 童装提示词库 visuals",
+  "generatedAt": "2026-06-07T10:11:24.194Z",
+  "total": 107,
+  "visuals": [
+    {
+      "id": "ai-kids-fashion-001",
+      "slug": "ai-kids-fashion-001",
+      "title": "男童穿搭 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-001?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-001/0.png"
+    },
+    {
+      "id": "ai-kids-fashion-002",
+      "slug": "ai-kids-fashion-002",
+      "title": "童装对镜自拍 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-002?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-002/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-003",
+      "slug": "ai-kids-fashion-003",
+      "title": "女童穿搭 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-003?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-003/0.png"
+    },
+    {
+      "id": "ai-kids-fashion-004",
+      "slug": "ai-kids-fashion-004",
+      "title": "女童穿搭 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-004?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-004/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-005",
+      "slug": "ai-kids-fashion-005",
+      "title": "女童穿搭 AI 童装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-005?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-005/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-006",
+      "slug": "ai-kids-fashion-006",
+      "title": "女童穿搭 AI 童装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-006?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-006/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-007",
+      "slug": "ai-kids-fashion-007",
+      "title": "女童穿搭 AI 童装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-007?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-007/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-008",
+      "slug": "ai-kids-fashion-008",
+      "title": "女童穿搭 AI 童装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-008?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-008/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-009",
+      "slug": "ai-kids-fashion-009",
+      "title": "幼儿童装 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-009?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-009/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-010",
+      "slug": "ai-kids-fashion-010",
+      "title": "童装对镜自拍 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-010?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-010/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-011",
+      "slug": "ai-kids-fashion-011",
+      "title": "童装静物展示 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-011?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-011/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-012",
+      "slug": "ai-kids-fashion-012",
+      "title": "女童穿搭 AI 童装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-012?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-012/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-013",
+      "slug": "ai-kids-fashion-013",
+      "title": "男童穿搭 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-013?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-013/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-014",
+      "slug": "ai-kids-fashion-014",
+      "title": "童装店展示 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-014?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-014/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-016",
+      "slug": "ai-kids-fashion-016",
+      "title": "男童穿搭 AI 童装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-016?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-016/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-017",
+      "slug": "ai-kids-fashion-017",
+      "title": "女童穿搭 AI 童装提示词 9",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-017?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-017/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-018",
+      "slug": "ai-kids-fashion-018",
+      "title": "女童穿搭 AI 童装提示词 10",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-018?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-018/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-019",
+      "slug": "ai-kids-fashion-019",
+      "title": "童装店展示 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-019?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-019/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-020",
+      "slug": "ai-kids-fashion-020",
+      "title": "童装店展示 AI 童装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-020?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-020/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-021",
+      "slug": "ai-kids-fashion-021",
+      "title": "幼儿童装 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-021?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-021/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-022",
+      "slug": "ai-kids-fashion-022",
+      "title": "幼儿童装 AI 童装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-022?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-022/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-023",
+      "slug": "ai-kids-fashion-023",
+      "title": "女童穿搭 AI 童装提示词 11",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-023?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-023/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-024",
+      "slug": "ai-kids-fashion-024",
+      "title": "童装静物展示 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-024?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-024/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-025",
+      "slug": "ai-kids-fashion-025",
+      "title": "童装店展示 AI 童装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-025?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-025/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-026",
+      "slug": "ai-kids-fashion-026",
+      "title": "童装对镜自拍 AI 童装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-026?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-026/0.png"
+    },
+    {
+      "id": "ai-kids-fashion-027",
+      "slug": "ai-kids-fashion-027",
+      "title": "女童穿搭 AI 童装提示词 12",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-027?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-027/0.png"
+    },
+    {
+      "id": "ai-kids-fashion-028",
+      "slug": "ai-kids-fashion-028",
+      "title": "童装静物展示 AI 童装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-028?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-028/0.png"
+    },
+    {
+      "id": "ai-kids-fashion-029",
+      "slug": "ai-kids-fashion-029",
+      "title": "童装静物展示 AI 童装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-029?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-029/0.png"
+    },
+    {
+      "id": "ai-kids-fashion-030",
+      "slug": "ai-kids-fashion-030",
+      "title": "女童穿搭 AI 童装提示词 13",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-030?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-030/0.png"
+    },
+    {
+      "id": "ai-kids-fashion-031",
+      "slug": "ai-kids-fashion-031",
+      "title": "童装对镜自拍 AI 童装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-031?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-031/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-032",
+      "slug": "ai-kids-fashion-032",
+      "title": "童装静物展示 AI 童装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-032?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-032/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-033",
+      "slug": "ai-kids-fashion-033",
+      "title": "女童穿搭 AI 童装提示词 14",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-033?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-033/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-034",
+      "slug": "ai-kids-fashion-034",
+      "title": "女童穿搭 AI 童装提示词 15",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-034?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-034/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-035",
+      "slug": "ai-kids-fashion-035",
+      "title": "童装静物展示 AI 童装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-035?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-035/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-036",
+      "slug": "ai-kids-fashion-036",
+      "title": "幼儿童装 AI 童装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-036?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-036/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-037",
+      "slug": "ai-kids-fashion-037",
+      "title": "女童穿搭 AI 童装提示词 16",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-037?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-037/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-038",
+      "slug": "ai-kids-fashion-038",
+      "title": "男童穿搭 AI 童装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-038?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-038/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-039",
+      "slug": "ai-kids-fashion-039",
+      "title": "幼儿童装 AI 童装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-039?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-039/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-040",
+      "slug": "ai-kids-fashion-040",
+      "title": "幼儿童装 AI 童装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-040?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-040/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-041",
+      "slug": "ai-kids-fashion-041",
+      "title": "AI 童装 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-041?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-041/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-042",
+      "slug": "ai-kids-fashion-042",
+      "title": "新春童装 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-042?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-042/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-043",
+      "slug": "ai-kids-fashion-043",
+      "title": "女童穿搭 AI 童装提示词 17",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-043?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-043/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-044",
+      "slug": "ai-kids-fashion-044",
+      "title": "新春童装 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-044?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-044/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-045",
+      "slug": "ai-kids-fashion-045",
+      "title": "幼儿童装 AI 童装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-045?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-045/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-046",
+      "slug": "ai-kids-fashion-046",
+      "title": "童装对镜自拍 AI 童装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-046?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-046/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-047",
+      "slug": "ai-kids-fashion-047",
+      "title": "女童穿搭 AI 童装提示词 18",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-047?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-047/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-048",
+      "slug": "ai-kids-fashion-048",
+      "title": "AI 童装 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-048?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-048/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-049",
+      "slug": "ai-kids-fashion-049",
+      "title": "新春童装 AI 童装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-049?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-049/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-050",
+      "slug": "ai-kids-fashion-050",
+      "title": "新春童装 AI 童装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-050?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-050/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-051",
+      "slug": "ai-kids-fashion-051",
+      "title": "新春童装 AI 童装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-051?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-051/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-052",
+      "slug": "ai-kids-fashion-052",
+      "title": "新春童装 AI 童装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-052?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-052/0.png"
+    },
+    {
+      "id": "ai-kids-fashion-053",
+      "slug": "ai-kids-fashion-053",
+      "title": "新春童装 AI 童装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-053?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-053/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-054",
+      "slug": "ai-kids-fashion-054",
+      "title": "新春童装 AI 童装提示词 8",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-054?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-054/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-055",
+      "slug": "ai-kids-fashion-055",
+      "title": "童装静物展示 AI 童装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-055?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-055/0.png"
+    },
+    {
+      "id": "ai-kids-fashion-056",
+      "slug": "ai-kids-fashion-056",
+      "title": "女童穿搭 AI 童装提示词 19",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-056?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-056/0.png"
+    },
+    {
+      "id": "ai-kids-fashion-057",
+      "slug": "ai-kids-fashion-057",
+      "title": "新春童装 AI 童装提示词 9",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-057?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-057/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-058",
+      "slug": "ai-kids-fashion-058",
+      "title": "童装对镜自拍 AI 童装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-058?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-058/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-059",
+      "slug": "ai-kids-fashion-059",
+      "title": "新春童装 AI 童装提示词 10",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-059?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-059/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-060",
+      "slug": "ai-kids-fashion-060",
+      "title": "国风童装 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-060?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-060/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-061",
+      "slug": "ai-kids-fashion-061",
+      "title": "童装静物展示 AI 童装提示词 8",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-061?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-061/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-062",
+      "slug": "ai-kids-fashion-062",
+      "title": "新春童装 AI 童装提示词 11",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-062?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-062/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-063",
+      "slug": "ai-kids-fashion-063",
+      "title": "童装静物展示 AI 童装提示词 9",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-063?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-063/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-064",
+      "slug": "ai-kids-fashion-064",
+      "title": "新春童装 AI 童装提示词 12",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-064?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-064/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-065",
+      "slug": "ai-kids-fashion-065",
+      "title": "新春童装 AI 童装提示词 13",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-065?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-065/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-066",
+      "slug": "ai-kids-fashion-066",
+      "title": "新春童装 AI 童装提示词 14",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-066?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-066/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-067",
+      "slug": "ai-kids-fashion-067",
+      "title": "童装静物展示 AI 童装提示词 10",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-067?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-067/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-068",
+      "slug": "ai-kids-fashion-068",
+      "title": "新春童装 AI 童装提示词 15",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-068?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-068/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-069",
+      "slug": "ai-kids-fashion-069",
+      "title": "童装静物展示 AI 童装提示词 11",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-069?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-069/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-070",
+      "slug": "ai-kids-fashion-070",
+      "title": "童装静物展示 AI 童装提示词 12",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-070?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-070/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-071",
+      "slug": "ai-kids-fashion-071",
+      "title": "幼儿童装 AI 童装提示词 8",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-071?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-071/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-072",
+      "slug": "ai-kids-fashion-072",
+      "title": "童装静物展示 AI 童装提示词 13",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-072?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-072/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-073",
+      "slug": "ai-kids-fashion-073",
+      "title": "童装静物展示 AI 童装提示词 14",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-073?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-073/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-074",
+      "slug": "ai-kids-fashion-074",
+      "title": "女童穿搭 AI 童装提示词 20",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-074?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-074/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-075",
+      "slug": "ai-kids-fashion-075",
+      "title": "女童穿搭 AI 童装提示词 21",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-075?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-075/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-076",
+      "slug": "ai-kids-fashion-076",
+      "title": "新春童装 AI 童装提示词 16",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-076?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-076/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-077",
+      "slug": "ai-kids-fashion-077",
+      "title": "女童穿搭 AI 童装提示词 22",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-077?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-077/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-078",
+      "slug": "ai-kids-fashion-078",
+      "title": "童装对镜自拍 AI 童装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-078?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-078/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-079",
+      "slug": "ai-kids-fashion-079",
+      "title": "新春童装 AI 童装提示词 17",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-079?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-079/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-080",
+      "slug": "ai-kids-fashion-080",
+      "title": "新春童装 AI 童装提示词 18",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-080?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-080/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-081",
+      "slug": "ai-kids-fashion-081",
+      "title": "幼儿童装 AI 童装提示词 9",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-081?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-081/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-082",
+      "slug": "ai-kids-fashion-082",
+      "title": "国风童装 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-082?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-082/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-083",
+      "slug": "ai-kids-fashion-083",
+      "title": "童装静物展示 AI 童装提示词 15",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-083?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-083/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-084",
+      "slug": "ai-kids-fashion-084",
+      "title": "童装静物展示 AI 童装提示词 16",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-084?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-084/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-085",
+      "slug": "ai-kids-fashion-085",
+      "title": "女童穿搭 AI 童装提示词 23",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-085?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-085/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-086",
+      "slug": "ai-kids-fashion-086",
+      "title": "童装店展示 AI 童装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-086?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-086/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-087",
+      "slug": "ai-kids-fashion-087",
+      "title": "幼儿童装 AI 童装提示词 10",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-087?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-087/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-088",
+      "slug": "ai-kids-fashion-088",
+      "title": "童装对镜自拍 AI 童装提示词 8",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-088?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-088/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-089",
+      "slug": "ai-kids-fashion-089",
+      "title": "男童穿搭 AI 童装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-089?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-089/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-090",
+      "slug": "ai-kids-fashion-090",
+      "title": "女童穿搭 AI 童装提示词 24",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-090?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-090/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-091",
+      "slug": "ai-kids-fashion-091",
+      "title": "女童穿搭 AI 童装提示词 25",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-091?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-091/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-092",
+      "slug": "ai-kids-fashion-092",
+      "title": "幼儿童装 AI 童装提示词 11",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-092?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-092/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-093",
+      "slug": "ai-kids-fashion-093",
+      "title": "童装静物展示 AI 童装提示词 17",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-093?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-093/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-094",
+      "slug": "ai-kids-fashion-094",
+      "title": "童装静物展示 AI 童装提示词 18",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-094?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-094/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-095",
+      "slug": "ai-kids-fashion-095",
+      "title": "女童穿搭 AI 童装提示词 26",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-095?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-095/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-096",
+      "slug": "ai-kids-fashion-096",
+      "title": "童装静物展示 AI 童装提示词 19",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-096?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-096/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-097",
+      "slug": "ai-kids-fashion-097",
+      "title": "幼儿童装 AI 童装提示词 12",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-097?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-097/0.png"
+    },
+    {
+      "id": "ai-kids-fashion-098",
+      "slug": "ai-kids-fashion-098",
+      "title": "女童穿搭 AI 童装提示词 27",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-098?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-098/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-099",
+      "slug": "ai-kids-fashion-099",
+      "title": "童装静物展示 AI 童装提示词 20",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-099?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-099/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-100",
+      "slug": "ai-kids-fashion-100",
+      "title": "幼儿童装 AI 童装提示词 13",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-100?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-100/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-101",
+      "slug": "ai-kids-fashion-101",
+      "title": "男童穿搭 AI 童装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-101?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-101/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-102",
+      "slug": "ai-kids-fashion-102",
+      "title": "幼儿童装 AI 童装提示词 14",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-102?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-102/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-103",
+      "slug": "ai-kids-fashion-103",
+      "title": "女童穿搭 AI 童装提示词 28",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-103?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-103/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-104",
+      "slug": "ai-kids-fashion-104",
+      "title": "童装对镜自拍 AI 童装提示词 9",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-104?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-104/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-105",
+      "slug": "ai-kids-fashion-105",
+      "title": "女童穿搭 AI 童装提示词 29",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-105?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-105/0.jpg"
+    },
+    {
+      "id": "ai-kids-fashion-106",
+      "slug": "ai-kids-fashion-106",
+      "title": "女童穿搭 AI 童装提示词 30",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-106?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-106/0.png"
+    },
+    {
+      "id": "ai-kids-fashion-107",
+      "slug": "ai-kids-fashion-107",
+      "title": "童装对镜自拍 AI 童装提示词 10",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-107?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-107/0.png"
+    },
+    {
+      "id": "ai-kids-fashion-108",
+      "slug": "ai-kids-fashion-108",
+      "title": "童装对镜自拍 AI 童装提示词 11",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-108?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=kidswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-108/0.png"
+    }
+  ]
+}
